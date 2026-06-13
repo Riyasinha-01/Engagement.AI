@@ -2,6 +2,10 @@
 
 Engagement.AI is a premium, modern, AI-native Mini CRM designed to segment customers, generate hyper-personalized marketing copy, and track email campaign conversions in real-time.
 
+### 🌐 Live Deployments
+* **Frontend Web Dashboard**: [https://engagement-ai.vercel.app](https://engagement-ai.vercel.app)
+* **Backend API Gateway**: [https://engagement-ai.onrender.com](https://engagement-ai.onrender.com)
+
 ---
 
 ## Architecture & Tech Stack
